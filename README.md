@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">House of Kublai</h3>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
