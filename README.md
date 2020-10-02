@@ -1,7 +1,7 @@
 # House of Kublai
 <p align="center">
   <a href="https://v5.getbootstrap.com/">
-    <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="3840" height="600">
+    <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="1920" height="300">
   </a>
 </p>
 
