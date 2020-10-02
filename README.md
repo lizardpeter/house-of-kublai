@@ -4,9 +4,6 @@
     <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="960" height="150">
   </a>
 </p>
-
-//<h3 align="center">House of Kublai</h3>
-
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   <br>
