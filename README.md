@@ -5,4 +5,4 @@
 
 a collection of assets for the House of Kublai server
 
-https://github.com/lizardpeter/house-of-kublai/blob/master/images/del4.png
+![HK](https://github.com/lizardpeter/house-of-kublai/blob/master/images/del4.png)
