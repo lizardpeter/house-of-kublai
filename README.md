@@ -4,3 +4,5 @@
 ![size](https://img.shields.io/github/repo-size/lizardpeter/house-of-kublai?label=repo%20size&style=for-the-badge)
 
 a collection of assets for the House of Kublai server
+
+https://github.com/lizardpeter/house-of-kublai/blob/master/images/del4.png
