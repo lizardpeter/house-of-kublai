@@ -1,13 +1,13 @@
 # House of Kublai
 <p align="center">
-  <a href="https://discord.gg/cM488Ws/">
+  <a href="https://discord.gg/cM488Ws">
     <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="960" height="150">
   </a>
 </p>
 <p align="center">
   A competitive, intuitive, and knowledgeable gaming community.
   <br>
-  <a href="https://discord.gg/cM488Ws/"><strong>Join us on Discord »</strong></a>
+  <a href="https://discord.gg/cM488Ws"><strong>Join us on Discord »</strong></a>
   <br>
   <br>
   <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
