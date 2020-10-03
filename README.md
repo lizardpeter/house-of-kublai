@@ -1,11 +1,11 @@
 # House of Kublai
 <p align="center">
-  <a href="https://v5.getbootstrap.com/">
+  <a href="https://discord.gg/cM488Ws/">
     <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="960" height="150">
   </a>
 </p>
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Competitive, intuitive, and knowledgeable gaming community.
   <br>
   <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
