@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  Competitive, intuitive, and knowledgeable gaming community.
+  A competitive, intuitive, and knowledgeable gaming community.
   <br>
   <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
