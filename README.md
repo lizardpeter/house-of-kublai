@@ -1,7 +1,7 @@
 # House of Kublai
 <p align="center">
   <a href="https://discord.gg/cM488Ws">
-    <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="960" height="150">
+    <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" width="960" height="150" object-fit="cover">
   </a>
 </p>
 <p align="center">
