@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  by lizardpeter
+  Welcome to the House of Kublai
   <br>
   <br>
   <a href="https://discord.gg/cM488Ws"><strong>Join us on Discord</strong></a>
