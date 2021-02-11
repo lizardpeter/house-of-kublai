@@ -8,10 +8,11 @@
   A competitive, intuitive, and knowledgeable gaming community.
   <br>
   <a href="https://discord.gg/cM488Ws"><strong>Join us on Discord »</strong></a>
+  <br>
   <a href="https://houseofkublai.com"><strong>Visit our website »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
+  <a href="https://instagram.com/houseofkublai">Instagram</a>
   ·
   <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</a>
   ·
